@@ -1,2 +1,10 @@
 # Hello-world
-Testing - 1, 2, 3!
+
+
+Greetings! 
+
+I'm learning about GitHub and eating pizza tonight - I'd say that's a darn good evening!
+
+Toodles,
+Amber
+
